@@ -1,0 +1,29 @@
+### GET /todos
+@host = http://localhost:5294
+
+
+GET {{host}}/todos HTTP/1.1
+
+### GET1 /todos/1
+GET {{host}}/todos/1 HTTP/1.1
+
+
+### POST /todos
+@host = http://localhost:5294
+
+POST {{host}}/todos HTTP/1.1
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "New Todo",
+    "dueDate": "2023-10-31T00:00:00",
+    "isCompleted": false
+}
+
+### DELETE /todos/{id}
+@host = http://localhost:5294
+@id = 1
+
+DELETE {{host}}/todos/{{id}}
+
