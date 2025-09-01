@@ -25,3 +25,4 @@ c:\Users\gabri\Desktop\Bleh\Proyectos\Personales\C#\C# WEB API\WebApplication1\o
 c:\Users\gabri\Desktop\Bleh\Proyectos\Personales\C#\C# WEB API\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
 c:\Users\gabri\Desktop\Bleh\Proyectos\Personales\C#\C# WEB API\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 c:\Users\gabri\Desktop\Bleh\Proyectos\Personales\C#\C# WEB API\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
+C:\Users\gabri\Desktop\Bleh\Proyectos\Personales\C#\C# WEB API\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json
