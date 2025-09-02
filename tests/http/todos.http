@@ -1,5 +1,5 @@
 ### GET /todos
-@host = http://localhost:5294
+@host = https://localhost:7049
 
 
 GET {{host}}/todos HTTP/1.1
@@ -9,7 +9,7 @@ GET {{host}}/todos/3 HTTP/1.1
 
 
 ### POST /todos
-@host = http://localhost:5294
+@host = https://localhost:7049
 @dueDate = 2026-06-14T00:00:00Z
 
 POST {{host}}/todos HTTP/1.1

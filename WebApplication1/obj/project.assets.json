@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {}
+    "/home/vscode/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\Bleh\\Proyectos\\Personales\\C#\\C# WEB API\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "/workspaces/C# WEB API/WebApplication1/WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\gabri\\Desktop\\Bleh\\Proyectos\\Personales\\C#\\C# WEB API\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Desktop\\Bleh\\Proyectos\\Personales\\C#\\C# WEB API\\WebApplication1\\obj\\",
+      "projectPath": "/workspaces/C# WEB API/WebApplication1/WebApplication1.csproj",
+      "packagesPath": "/home/vscode/.nuget/packages/",
+      "outputPath": "/workspaces/C# WEB API/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/vscode/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

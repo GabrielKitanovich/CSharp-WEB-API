@@ -1,0 +1,51 @@
+# .gitignore for .NET Core / ASP.NET Core Web API
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Publish outputs
+WebApplication1/bin/Release/net9.0/publish/
+
+# Test files
+*.coverage
+*.testresults
+
+# Others
+*.vspscc
+*.vssscc
+
+# NuGet packages
+*.nupkg
+# Project lock files
+project.lock.json
+
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.swp
+*.tmp
+
+# HTTP test files
+/tests/http/*.http
